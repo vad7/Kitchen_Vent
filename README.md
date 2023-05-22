@@ -11,5 +11,7 @@ Relay: G3MB-202P - on/off
 Reset settings - press KEY more than 15 sec.  
 
 <br>
+<img src="https://raw.githubusercontent.com/vad7/Kitchen_Vent/main/3D.png">
+<br>
 <br>
 <img src="https://raw.githubusercontent.com/vad7/Kitchen_Vent/main/Schema.png">
